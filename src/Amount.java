@@ -7,7 +7,6 @@ public class Amount {
             this.transactionType = transactionType;
         }
         public double getAmount() {
-
             return amount;
         }
         public void setAmount(double amount) {
